@@ -1,7 +1,18 @@
 * {
   position: absolute;
+  min-width: 100%;
   margin: 0 auto;
   padding: 0;
+}
+
+body {
+  position: relative;
+}
+
+#title {
+  position: relative;
+  min-width: 75vw;
+  min-height: 25px;
 }
 
 
