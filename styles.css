@@ -9,10 +9,36 @@ body {
   position: relative;
 }
 
+#container {
+  position: relative;
+  margin: 0 auto;
+}
+
 #title {
   position: relative;
   min-width: 75vw;
   min-height: 25px;
+  margin: 20px auto 20px auto;
+}
+
+#linkContent {
+  position: relative;
+  min-width: 600px;
+  min-height: 400px;
+  margin: 20px auto 20px auto;
+}
+
+#zeldaLink {
+  position: relative;
+  min-width: 400px;
+  min-height: 250px;
+  margin: 0 auto;
+}
+
+#zeldaImg {
+  position: relative;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 
