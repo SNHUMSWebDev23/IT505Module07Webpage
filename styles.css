@@ -1,12 +1,8 @@
-* {
-  position: absolute;
+body {
+  position: relative;
   min-width: 100%;
   margin: 0 auto;
   padding: 0;
-}
-
-body {
-  position: relative;
 }
 
 #container {
