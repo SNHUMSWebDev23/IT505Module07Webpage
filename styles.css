@@ -12,8 +12,10 @@ body {
 }
 
 #title {
+  position: relative;
   max-width: 75vw;
   max-height: 25px;
+  color: #a9ffdd;
   text-align: center;
   margin: 20px auto 20px auto;
 }
