@@ -14,6 +14,7 @@ body {
 #title {
   max-width: 75vw;
   max-height: 25px;
+  text-align: center;
   margin: 20px auto 20px auto;
 }
 
@@ -33,8 +34,8 @@ body {
 
 #zeldaImg {
   position: relative;
-  min-width: 100%;
-  min-height: 100%;
+  min-width: 400px;
+  min-height: 250px;
 }
 
 
