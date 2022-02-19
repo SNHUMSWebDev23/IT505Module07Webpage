@@ -49,6 +49,7 @@ html, body {
   position: relative;
   max-width: 600px;
   max-height: 400px;
+  text-align: center;
   background: #f0eddd;
   border-radius: 4px;
   -webkit-box-shadow: 3px 3px 3px -3px #000000; 
