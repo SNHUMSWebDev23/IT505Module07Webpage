@@ -24,6 +24,7 @@ body {
   position: relative;
   max-width: 600px;
   max-height: 400px;
+  background: #f0eddd;
   border: solid 1px #000000;
   border-radius: 4px;
   padding: 20px;
