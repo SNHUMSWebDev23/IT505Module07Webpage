@@ -31,16 +31,16 @@ body {
 }
 
 #zeldaLink {
-  position: relative;
+  display: block;
   max-width: 400px;
   max-height: 250px;
   margin: 0 auto;
 }
 
 #zeldaImg {
-  position: relative;
-  min-width: 400px;
-  min-height: 250px;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
 }
 
 
