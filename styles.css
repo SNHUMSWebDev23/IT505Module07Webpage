@@ -89,6 +89,19 @@ html, body {
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
+  width: 600px;
 }
 
+.listItem {
+  background: #a9ffdd;
+  list-style-type: none;
+  padding: 5px;
+  border-radius: 4px;
+  -webkit-box-shadow: 3px 3px 3px -3px #000000; 
+  box-shadow: 3px 3px 3px -3px #000000;
+}
 
+.liLink {
+  text-decoration: none;
+  color: #000000;
+}
