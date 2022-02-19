@@ -7,8 +7,9 @@ body {
 
 #container {
   position: relative;
-  max-width: 80vw;
-  max-height: 100vh;
+  display: block;
+  width: 80vw;
+  height: 100vh;
   background: #ffffff;
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;
