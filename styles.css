@@ -74,7 +74,7 @@ html, body {
 
 #textContent {
   display: block;
-  width: 1000px;
+  width: 800px;
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;
   padding: 10px;
@@ -91,11 +91,12 @@ html, body {
   align-items: center;
   justify-content: space-around;
   width: 800px;
+  height: 100px;
 }
 
 .listItem {
   width: 250px;
-  height: 300px;
+  height: 100px;
   background: #a9ffdd;
   list-style-type: none;
   -webkit-box-shadow: 3px 3px 3px -3px #000000; 
