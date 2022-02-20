@@ -2,7 +2,12 @@ html, body {
   display: flex;
   height: 100%;
   width: 100%;
-  background: #f0eddd;
+  background: url('./Zelda-bg.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  opacity: 0.4;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
