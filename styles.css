@@ -59,7 +59,7 @@ html, body {
   max-width: 600px;
   max-height: 400px;
   text-align: center;
-  background: rgba(112, 179, 245, 0.2);
+  background: rgba(112, 179, 245, 0.3);
   border-radius: 4px;
   -webkit-box-shadow: 3px 3px 3px -3px #000000; 
   box-shadow: 3px 3px 3px -3px #000000;
@@ -86,6 +86,7 @@ html, body {
   position: relative;
   top: -25px;
   display: block;
+  background: rgba(255, 255, 255, 0.2);
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;
 }
@@ -101,6 +102,7 @@ html, body {
   align-items: center;
   justify-content: space-around;
   background: rgba(255, 255, 255, 0.2);
+  padding: 10px 0 10px 0;
   z-index: 1;
 }
 
@@ -118,5 +120,5 @@ html, body {
   position: relative;
   display: block;
   text-decoration: none;
-  color: #ffffff;
+  color: rgba(0,0,0, 1);
 }
