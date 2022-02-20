@@ -86,7 +86,7 @@ html, body {
   position: relative;
   top: -25px;
   display: block;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.5);
   border-left: 2px solid #000000;
   border-right: 2px solid #000000;
 }
@@ -120,5 +120,5 @@ html, body {
   position: relative;
   display: block;
   text-decoration: none;
-  color: rgba(0,0,0, 1);
+  color: rgba(245, 234, 55, 1.0);
 }
