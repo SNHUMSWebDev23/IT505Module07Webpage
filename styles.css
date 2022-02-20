@@ -52,7 +52,7 @@ html, body {
   max-width: 600px;
   max-height: 400px;
   text-align: center;
-  background: #f0eddd;
+  background: #70B3F5;
   border-radius: 4px;
   -webkit-box-shadow: 3px 3px 3px -3px #000000; 
   box-shadow: 3px 3px 3px -3px #000000;
@@ -94,7 +94,7 @@ html, body {
 }
 
 .listItem {
-  background: #a9ffdd;
+  background: #000000;
   list-style-type: none;
   -webkit-box-shadow: 3px 3px 3px -3px #000000; 
   box-shadow: 3px 3px 3px -3px #000000;
@@ -105,5 +105,5 @@ html, body {
   position: relative;
   display: block;
   text-decoration: none;
-  color: #000000;
+  color: #ffffff;
 }
